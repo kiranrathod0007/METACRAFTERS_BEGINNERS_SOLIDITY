@@ -5,7 +5,7 @@ pragma solidity >=0.8.2 <0.9.0;
 contract Token{
 
     string public Token_Name="RAM";
-    string public Token_Abbrv="RAM";
+    string public Token_Abbrv="SHYAM";
     uint public Total_Supply=0;
 
 
