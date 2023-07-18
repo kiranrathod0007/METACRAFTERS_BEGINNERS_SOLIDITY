@@ -34,11 +34,11 @@ function burn(address _address,uint _value) public {
 }
 }
 
-To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile MyToken.sol" button.
+To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile HelloWorld.sol" button.
 
-Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MyToken" contract from the dropdown menu, and then click on the "Deploy" button.
+Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "HelloWorld" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Once the contract is deployed, you can interact with it. After, that to check whether the contract is running successfully we can check by performing the minting and the burning function. We can check the TotalCount, TotalAbrrevation, Balance, too. After, the Deployment of Contract copy the initial address above and then paste down to the left-most side where u can see the TotalCount, TotalAbbrv, Balances, Mint, Burn, etc and then You can perform the basic task that the contract has. So, atlast we can see all the things are performed well and as said.
+Once the contract is deployed, you can interact with it by calling the sayHello function. Click on the "HelloWorld" contract in the left-hand sidebar, and then click on the "sayHello" function. Finally, click on the "transact" button to execute the function and retrieve the "Hello World!" message.
 
 Authors
 Metacrafter Kiran Rathod @metacraftersio
